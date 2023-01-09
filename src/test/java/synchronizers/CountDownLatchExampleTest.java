@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class CountDownLatchExampleTest {
 
     @Test
-    public void shoudUseCountDownLatch() {
+    public void shouldUseCountDownLatch() {
         // given
         var countDownLatchExample = new CountDownLatchExample();
 
